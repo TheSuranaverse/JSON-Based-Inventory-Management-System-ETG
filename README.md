@@ -14,14 +14,25 @@ The Inventory Management System here, efficiently tracks inventory from purchase
 ## Working:
 This project is mainly divided into two files:
 
- - **Keeping Track of Stocks in Inventory:** In this part, we create a records.json file which contains all the Inventories with details like product id (barcode), name, quantity, price, isAvailable, Expiry date. Here we can add new goods in the inventory and the records will be stored in records.json file.
+#### Keeping Track of Stocks in Inventory: 
+- **Introduction:** A **menu driven program** which performs following function: 1) `UPDATE AN ITEM`  2) `ADD NEW ITEM`  3) `DELETE AN ITEM`. It reads the details of the product stored in an inventory from `record.json` file and as per user command it updates the inventory and `record.json` file.
+- **Implementation:** The **"Product ID"** is stored as a **"key"**, while all the details of the product like `Product's Name`, `Product's Company`, `Product's Quantity`, `Product's Type`, `Product's Price` is stored in the form of a dictionary as values of the key **"Product ID"**. Every time user update/delete an existing item or add a new item, dictionary containing the details is updated and `record.json` file is updated at the end.
+- **Result:** Keeping track of products in inventory becomes super easy and comes in handy whenever the user order for new stocks or wants to get update of his current stock of products.
+- **UPGRADE:** As per user requirement more features can be added like 
+  - Under `UPDATE AN ITEM` we can create more features which asks whether the manager want to update the item's price only or just quantity or both.
+  - Under `ADD NEW ITEM` we can 
+  - More attributes can be stored 
 
-- **Keeping Track of Sales and Simultaneously Updating the Inventory:** In this part, a) We enter the transaction or purchase details like product id,no. of items purchased,name of customer, mobile number of customer. b) If the purchased items are available in inventory, then Bill is generated. c) The detailes of the transactions are then stored in sales.json file with attributes like total transactions,transactio id,date,time, product name,total amount of purchase, customer name and customer mobile number.
+#### Keeping Track of Sales and Updating the Inventory Simultaneously: 
+- **Introduction:** A **menu driven program** which performs following function: 1) `GENERATE BILL OF EACH SALE`  2) `UPDATE THE INVENTORY AFTER EACH SALE`. It reads the details of the product stored in an inventory from `record.json` file, updates it after each transaction and also maintain `sales.json` file which keep track of each sales done. 
+- **Implementation:** 
+- **Result:** Keeping track of sales becomes super easy and can easily access previous transactions history. Also stocks are updated automatically after every transaction and thus making inventory management more flexible.
 
 ## Programming Language:
 - **Python** 
-  - **Libraries Used:** json, collections
+  - **Libraries Used:** json, datetime, collections
  
 ## Tools Used:
-- Google Colab
+- Jupyter Notebook: To write and create `.ipynb` and `.json` files.
+- Git: To track the changes made to a file, so to have a record of what has been done and also to push our project to Github.
 
