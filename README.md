@@ -17,3 +17,11 @@ This project is mainly divided into two files:
  - **Keeping Track of Stocks in Inventory:** In this part, we create a records.json file which contains all the Inventories with details like product id (barcode), name, quantity, price, isAvailable, Expiry date. Here we can add new goods in the inventory and the records will be stored in records.json file.
 
 - **Keeping Track of Sales and Simultaneously Updating the Inventory:** In this part, a) We enter the transaction or purchase details like product id,no. of items purchased,name of customer, mobile number of customer. b) If the purchased items are available in inventory, then Bill is generated. c) The detailes of the transactions are then stored in sales.json file with attributes like total transactions,transactio id,date,time, product name,total amount of purchase, customer name and customer mobile number.
+
+## Programming Language:
+- **Python** 
+  - **Libraries Used:** json, collections
+ 
+## Tools Used:
+- Google Colab
+
