@@ -3,7 +3,7 @@
 The phrase **"inventory management"** may strike terror through your very being. Perhaps it brings back nightmares from your high-school cashier job “back in the day”, when you had to spend hours counting endless rows of cereal boxes or racks of women’s jeans by hand. But now, as a small business owner, you have likely realized inventory control is absolutely necessary if you intend to run an efficient business and make money in the process.
 
 ## Problem:
-In today’s competitive marketplace, you can’t afford to lose money anywhere within your business operations. Keeping track of what items are in stock and how much of them there are, and where they are located can become a big challenge if not handled properly. Storage costs also quickly accumulate for many businesses. So it’s very important to keep track of exactly how many of each item you have in stock, along with how much you have on order.
+In today’s competitive marketplace, one can’t afford to lose money anywhere within their business operations. Keeping track of what items are in stock and how much of them there are, and where they are located can become a big challenge if not handled properly. Storage costs also quickly accumulate for many businesses. So it’s very important to keep track of exactly how many of each item you have in stock, along with how much you have on order.
 
 ## Objective:
 The main purpose of inventory management is to help businesses easily and efficiently manage the ordering, stocking, storing and using of inventory. By effectively managing your inventory, you'll always know what items are in stock, how much of them there are, and where they are located.
@@ -12,7 +12,7 @@ The main purpose of inventory management is to help businesses easily and effici
 The Inventory Management System here, efficiently tracks inventory from purchase to the sale of goods. It manages the goods, keep track of stocks and also track sales done using the power of Python and json. Furthermore, it saves a lot of time and efforts of the shopkeepers and facilitates them in the tedious task of managing inventory and sales.
 
 ## Working:
-This project is mainly divided into two files:
+This project is mainly divided into two parts:
 
 #### Keeping Track of Stocks in Inventory: 
 - **INTRODUCTION:** A **menu driven program** which performs following function: 1) `UPDATE AN ITEM`  2) `ADD NEW ITEM`  3) `DELETE AN ITEM`. It reads the details of the product stored in an inventory from `record.json` file and as per user command it updates the inventory and `record.json` file.
