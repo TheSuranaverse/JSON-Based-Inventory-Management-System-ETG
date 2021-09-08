@@ -38,4 +38,4 @@ This project is mainly divided into two parts:
 - **Git:** To track the changes made to a file, so to have a record of what has been done and also to push our project to Github.
 
 ## Author
-@Neklaustares-tPtwP 
+[Subham Surana](https://github.com/Neklaustares-tPtwP)
