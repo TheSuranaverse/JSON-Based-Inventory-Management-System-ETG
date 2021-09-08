@@ -37,3 +37,5 @@ This project is mainly divided into two parts:
 - Jupyter Notebook: To write and create `.ipynb` and `.json` files.
 - Git: To track the changes made to a file, so to have a record of what has been done and also to push our project to Github.
 
+## Author
+Subham Surana
