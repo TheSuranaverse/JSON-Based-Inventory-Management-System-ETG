@@ -41,5 +41,5 @@ This project is mainly divided into two parts:
 [Subham Surana](https://github.com/Neklaustares-tPtwP)
 
 ## Connect with me
-[My LinkedIn Profile](https://www.linkedin.com/in/subham-surana/)
-[My Kaggle Profile](https://www.kaggle.com/subhamjain)
+- [My LinkedIn Profile](https://www.linkedin.com/in/subham-surana/)
+- [My Kaggle Profile](https://www.kaggle.com/subhamjain)
