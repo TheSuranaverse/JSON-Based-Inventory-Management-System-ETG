@@ -1,15 +1,15 @@
 # JSON Based Inventory Management System
 
-The phrase **"inventory management"** may strike terror through your very being. Perhaps it brings back nightmares from your high-school cashier job “back in the day”, when you had to spend hours counting endless rows of cereal boxes or racks of women’s jeans by hand. But now, as a small business owner, you have likely realized inventory control is absolutely necessary if you intend to run an efficient business and make money in the process.
+The phrase **"Inventory Management"** may strike terror through your very being. Perhaps it brings back nightmares from your high-school cashier job “back in the day”, when you had to spend hours counting endless rows of cereal boxes or racks of women’s jeans by hand. But now, as a small business owner, you have likely realized inventory control is absolutely necessary if you intend to run an efficient business and make money in the process.
 
 ## Problem:
 In today’s competitive marketplace, one can’t afford to lose money anywhere within their business operations. Keeping track of what items are in stock and how much of them there are, and where they are located can become a big challenge if not handled properly. Storage costs also quickly accumulate for many businesses. So it’s very important to keep track of exactly how many of each item you have in stock, along with how much you have on order.
 
 ## Objective:
-The main purpose of inventory management is to help businesses easily and efficiently manage the ordering, stocking, storing and using of inventory. By effectively managing your inventory, you'll always know what items are in stock, how much of them there are, and where they are located.
+The main purpose of inventory management is to help businesses easily and efficiently manage the **ordering, stocking, storing and using of inventory**. By effectively managing the inventory, one can always know what items are in stock, how much of them there are, where they are located, etc.
 
 ## Brief Introduction:
-The Inventory Management System here, efficiently tracks inventory from purchase to the sale of goods. It manages the goods, keep track of stocks and also track sales done using the power of Python and json. Furthermore, it saves a lot of time and efforts of the shopkeepers and facilitates them in the tedious task of managing inventory and sales.
+The **Inventory Management System** here, efficiently tracks inventory from purchase to the sale of goods, and works on **NoSQL** based database. It manages the goods, keep track of stocks and also track sales done using the power of Python and json. Furthermore, it saves a lot of time and efforts of the shopkeepers and facilitates them in the tedious task of managing inventory and sales.
 
 ## Working:
 This project is mainly divided into two parts:
@@ -39,3 +39,7 @@ This project is mainly divided into two parts:
 
 ## Author
 [Subham Surana](https://github.com/Neklaustares-tPtwP)
+
+## Connect with me
+[My LinkedIn Profile](https://www.linkedin.com/in/subham-surana/)
+[My Kaggle Profile](https://www.kaggle.com/subhamjain)
